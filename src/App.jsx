@@ -45,11 +45,11 @@ const App = () => {
             <img className="close" src="public/close.png" alt="Fechar" />
             <div className="buttons">
               <a href="https://aislann.github.io/QRCode/" target="_blank" rel="noopener noreferrer">
-                <img src="public/olho.png" alt="Visualizar" />
+                <img src="/public/olho.png" alt="Visualizar" />
                 <p>Visualização</p>
               </a>
               <a href="https://github.com/Aislann/QRCode" target="_blank" rel="noopener noreferrer">
-                <img src="public/github.png" alt="Código-fonte" />
+                <img src="/public/github.png" alt="Código-fonte" />
                 <p>Código-fonte</p>
               </a>
             </div>
@@ -59,11 +59,11 @@ const App = () => {
             <img className="close" src="public/close.png" alt="Fechar" />
             <div className="buttons">
               <a href="https://aislann.github.io/Card_Produto/" target="_blank" rel="noopener noreferrer">
-                <img src="public/olho.png" alt="Visualizar" />
+                <img src="/public/olho.png" alt="Visualizar" />
                 <p>Visualização</p>
               </a>
               <a href="https://github.com/Aislann/Card_Produto" target="_blank" rel="noopener noreferrer">
-                <img src="public/github.png" alt="Código-fonte" />
+                <img src="/public/github.png" alt="Código-fonte" />
                 <p>Código-fonte</p>
               </a>
             </div>
@@ -73,11 +73,11 @@ const App = () => {
             <img className="close" src="public/close.png" alt="Fechar" />
             <div className="buttons">
               <a href="https://aislann.github.io/Resumo_Produto/" target="_blank" rel="noopener noreferrer">
-                <img src="public/olho.png" alt="Visualizar" />
+                <img src="/public/olho.png" alt="Visualizar" />
                 <p>Visualização</p>
               </a>
               <a href="https://github.com/Aislann/Resumo_Produto" target="_blank" rel="noopener noreferrer">
-                <img src="public/github.png" alt="Código-fonte" />
+                <img src="/public/github.png" alt="Código-fonte" />
                 <p>Código-fonte</p>
               </a>
             </div>
@@ -87,11 +87,11 @@ const App = () => {
             <img className="close" src="public/close.png" alt="Fechar" />
             <div className="buttons">
               <a href="https://aislann.github.io/Faixa_3colunas/" target="_blank" rel="noopener noreferrer">
-                <img src="public/olho.png" alt="Visualizar" />
+                <img src="/public/olho.png" alt="Visualizar" />
                 <p>Visualização</p>
               </a>
               <a href="https://github.com/Aislann/Faixa_3colunas" target="_blank" rel="noopener noreferrer">
-                <img src="public/github.png" alt="Código-fonte" />
+                <img src="/public/github.png" alt="Código-fonte" />
                 <p>Código-fonte</p>
               </a>
             </div>
@@ -101,11 +101,11 @@ const App = () => {
             <img className="close" src="public/close.png" alt="Fechar" />
             <div className="buttons">
               <a href="https://aislann.github.io/Card_multicolumn_livre/" target="_blank" rel="noopener noreferrer">
-                <img src="public/olho.png" alt="Visualizar" />
+                <img src="/public/olho.png" alt="Visualizar" />
                 <p>Visualização</p>
               </a>
               <a href="https://github.com/Aislann/Card_multicolumn_livre" target="_blank" rel="noopener noreferrer">
-                <img src="public/github.png" alt="Código-fonte" />
+                <img src="/public/github.png" alt="Código-fonte" />
                 <p>Código-fonte</p>
               </a>
             </div>
